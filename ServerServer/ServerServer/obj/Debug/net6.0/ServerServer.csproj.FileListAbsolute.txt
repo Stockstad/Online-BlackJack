@@ -1,0 +1,42 @@
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\bin\Debug\net6.0\ServerServer.exe
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\bin\Debug\net6.0\ServerServer.deps.json
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\bin\Debug\net6.0\ServerServer.runtimeconfig.json
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\bin\Debug\net6.0\ServerServer.dll
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\bin\Debug\net6.0\ServerServer.pdb
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.csproj.AssemblyReference.cache
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.AssemblyInfoInputs.cache
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.AssemblyInfo.cs
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.csproj.CoreCompileInputs.cache
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.dll
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\obj\Debug\net6.0\refint\ServerServer.dll
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.pdb
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.genruntimeconfig.cache
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\obj\Debug\net6.0\ref\ServerServer.dll
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\johan.torner\source\repos\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.csproj.CopyComplete
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\bin\Debug\net6.0\ServerServer.exe
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\bin\Debug\net6.0\ServerServer.deps.json
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\bin\Debug\net6.0\ServerServer.runtimeconfig.json
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\bin\Debug\net6.0\ServerServer.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\bin\Debug\net6.0\ServerServer.pdb
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.csproj.AssemblyReference.cache
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.AssemblyInfoInputs.cache
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.AssemblyInfo.cs
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.csproj.CoreCompileInputs.cache
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.csproj.CopyComplete
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\obj\Debug\net6.0\refint\ServerServer.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.pdb
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\obj\Debug\net6.0\ServerServer.genruntimeconfig.cache
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\ServerServer\ServerServer\obj\Debug\net6.0\ref\ServerServer.dll

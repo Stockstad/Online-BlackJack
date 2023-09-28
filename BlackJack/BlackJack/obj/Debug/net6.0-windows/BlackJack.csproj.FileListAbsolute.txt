@@ -1,0 +1,70 @@
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.csproj.AssemblyReference.cache
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.Form1.resources
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.csproj.GenerateResource.cache
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.AssemblyInfoInputs.cache
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.AssemblyInfo.cs
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\BlackJack.exe
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\BlackJack.deps.json
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\BlackJack.runtimeconfig.json
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\BlackJack.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\BlackJack.pdb
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\obj\Debug\net6.0-windows\refint\BlackJack.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.pdb
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.genruntimeconfig.cache
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\obj\Debug\net6.0-windows\ref\BlackJack.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\johan.torner\source\repos\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.csproj.CopyComplete
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\BlackJack.exe
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\BlackJack.deps.json
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\BlackJack.runtimeconfig.json
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\BlackJack.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\BlackJack.pdb
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Core.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.csproj.AssemblyReference.cache
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.Form1.resources
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.csproj.GenerateResource.cache
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.AssemblyInfoInputs.cache
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.AssemblyInfo.cs
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.csproj.CoreCompileInputs.cache
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.csproj.CopyComplete
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\obj\Debug\net6.0-windows\refint\BlackJack.dll
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.pdb
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\obj\Debug\net6.0-windows\BlackJack.genruntimeconfig.cache
+C:\BlackJackUltimate\BlackJackComplete (1)\BlackJackComplete\BlackJack\BlackJack\obj\Debug\net6.0-windows\ref\BlackJack.dll
